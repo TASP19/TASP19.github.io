@@ -1,0 +1,19 @@
+title: "Weather Dashboard"
+description: "A responsive weather dashboard that fetches real-time weather data from OpenWeatherMap API"
+url: "https://tasp19.github.io"
+baseurl: ""
+
+author:
+  name: "TASP19"
+  email: ""
+
+theme: jekyll-theme-cayman
+
+# Exclude Jekyll from processing
+exclude:
+  - "*.json"
+  - "node_modules"
+  - ".git"
+
+# Enable GitHub Pages features
+github: [metadata]
